@@ -7,7 +7,7 @@ import com.curdapp.curdapp.entity.Customer;
 import com.curdapp.curdapp.repository.CustomerRepo;
 
 import lombok.RequiredArgsConstructor;
-
+//this is a new comment added
 @Service
 @RequiredArgsConstructor
 public class CustomerService {
